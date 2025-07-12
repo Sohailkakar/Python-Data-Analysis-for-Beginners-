@@ -169,15 +169,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
 **Muhammad Sohail**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Sohailkakar](https://github.com/Sohailkakar)
+
 
 ## Acknowledgments
 
@@ -190,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 
 - Email: your.email@example.com
-- Issues: [GitHub Issues](https://github.com/yourusername/Python-Data-Analysis-for-Beginners-/issues)
+- Issues: [GitHub Issues](https://github.com/Sohailkakar/Python-Data-Analysis-for-Beginners-/issues)
 - Documentation: Check the individual notebook files for detailed explanations
 
 ---
