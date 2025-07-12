@@ -187,7 +187,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 If you have any questions or need help:
 
-- Email: your.email@example.com
+- Email: sohailkhankakr269@gmail.com
 - Issues: [GitHub Issues](https://github.com/Sohailkakar/Python-Data-Analysis-for-Beginners-/issues)
 - Documentation: Check the individual notebook files for detailed explanations
 
